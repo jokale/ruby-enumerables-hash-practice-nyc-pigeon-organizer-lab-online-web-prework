@@ -1,3 +1,14 @@
 def nyc_pigeon_organizer(data)
-  # write your code here!
+  result_class = {
+    "Theo" => {
+      :colour => ["grey", "purple"]
+    },
+    "Peter Jr." =>{},
+    "Lucky" => {},
+    "Ms. K"=> {},
+    "Queenie" => {},
+    "Andrew" => {},
+    "Alex" => {}
+    
+  }
 end
