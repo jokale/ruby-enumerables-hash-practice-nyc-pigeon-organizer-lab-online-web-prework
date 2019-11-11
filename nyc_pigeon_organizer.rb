@@ -37,7 +37,7 @@ def nyc_pigeon_organizer(data)
     }
     
     Luca = {
-      
+      color:
     }
   }
 end
