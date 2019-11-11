@@ -17,7 +17,7 @@ def nyc_pigeon_organizer(data)
     },
     "Ms. K"=> {
       color: ["grey","white"],
-      gender: [female]
+      gender: ["female"]
     },
     "Queenie" => {},
     "Andrew" => {},
