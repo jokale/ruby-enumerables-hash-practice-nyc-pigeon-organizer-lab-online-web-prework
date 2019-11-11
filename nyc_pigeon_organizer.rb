@@ -21,7 +21,8 @@ def nyc_pigeon_organizer(data)
       lives: ["Central Park"]
     },
     "Queenie" => {
-      color: ["white","brown"]
+      color: ["white","brown"],
+      gender: ["female"]
     },
     "Andrew" => {},
     "Alex" => {}
