@@ -32,7 +32,8 @@ def nyc_pigeon_organizer(data)
     },
     "Alex" => {
       color: ["white", "brown"],
-      gender: ["male"]
+      gender: ["male"],
+      lives: ["Central Park"]
     }
     
   }
