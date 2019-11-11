@@ -39,12 +39,12 @@ def nyc_pigeon_organizer(data)
   }
 end
 
-def luca = {
-    color: {
-      white: ["Alex"],
-      brown: ["Alex"]
-      },
-  }
+# def luca  {
+#     color: {
+#       white: ["Alex"],
+#       brown: ["Alex"]
+#       },
+#   }
   
-end 
+# end 
   
