@@ -1,11 +1,24 @@
 def nyc_pigeon_organizer(data)
   result_class = {
     "Theo" => {
-      :colour => ["grey", "purple"]
+      color: ["purple", "grey"],
+      gender: ["male"],
+      lives: ["Subway"]
     },
-    "Peter Jr." =>{},
-    "Lucky" => {},
-    "Ms. K"=> {},
+    "Peter Jr." =>{
+      color: ["purple","grey"],
+      gender: ["male"],
+      lives: ["Library"]
+    },
+    "Lucky" => {
+      color: ["purple"],
+      gender: ["male"],
+      lives: ["Central Park"]
+    },
+    "Ms. K"=> {
+      color: ["grey","white"],
+      gender: [female]
+    },
     "Queenie" => {},
     "Andrew" => {},
     "Alex" => {}
