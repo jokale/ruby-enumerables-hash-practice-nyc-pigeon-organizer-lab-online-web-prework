@@ -31,7 +31,8 @@ def nyc_pigeon_organizer(data)
       lives: ["City Hall"]
     },
     "Alex" => {
-      color: ["white", "brown"]
+      color: ["white", "brown"],
+      gender: ["male"]
     }
     
   }
