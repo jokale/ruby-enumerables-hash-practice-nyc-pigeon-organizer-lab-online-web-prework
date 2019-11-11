@@ -22,7 +22,8 @@ def nyc_pigeon_organizer(data)
     },
     "Queenie" => {
       color: ["white","brown"],
-      gender: ["female"]
+      gender: ["female"],
+      lives: ["Subway"]
     },
     "Andrew" => {},
     "Alex" => {}
